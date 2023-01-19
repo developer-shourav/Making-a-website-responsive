@@ -1,6 +1,6 @@
 ## For Making A website responsive
 
-### You have to do **7** Things for making a website responsive 
+### You have to do **7** things for making a website responsive 
 
 
 1. 💡 Defining viewport in Meta tag.
